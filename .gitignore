@@ -1,0 +1,8 @@
+*.a
+*.o
+*.cache
+*.log
+config.h
+config.status
+Make.defines
+Makefile
