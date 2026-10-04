@@ -7,7 +7,7 @@ main(int argc, char **argv)
 	int		c, flags;
 	mqd_t	mqd;
 	size_t	n;
-	uint_t	prio;
+	uint32_t	prio;
 	void	*buff;
 	struct mymq_attr	attr;
 
